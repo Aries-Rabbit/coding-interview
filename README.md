@@ -9,7 +9,7 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) and [npm](https
 1. Clone the project to your local machine:
 
 ```bash
-git clone https://github.com/Aries-Rabbit/product-list-react-w-typescript
+git clone https://github.com/aries-rabbit/product-list-react-w-typescript
 cd product-list-react-w-typescript
 ```
 
