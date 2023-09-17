@@ -17,7 +17,7 @@ cd product-list-react-w-typescript
 
 ```bash
 npm install
-- if you can install because of conflict dependencies, try:
+# if you can't install because of conflict dependencies, try:
 npm install --legacy-peer-deps
 ```
 
